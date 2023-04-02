@@ -107,8 +107,3 @@ THANAKS FOR USNING QUEEN nilu💃💖
 [💃 Join Public Group 💃](https://chat.whatsapp.com/)
 
 
-
-<h1>💃💖</h1> 
-<b>Thanks For</b> -
-
-[QUEENElisa](github.com/QueenElisa) for script ,@MRnima Thanks
