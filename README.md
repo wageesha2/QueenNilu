@@ -24,7 +24,7 @@
 
 # 
 
-<b>Version --> 1.1.0</b>
+<b>Version --> 2.0.0</b>
 # 
 Queen Nilu whatsapp bot is,
 A very good bot that you can use in whatsapp.
@@ -104,6 +104,6 @@ THANAKS FOR USNING QUEEN nilu💃💖
 
 [🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
 
-[💃 Join Public Group 💃](https://chat.whatsapp.com/)
+[💃 Join Public Group 💃]([https://chat.whatsapp.com/](https://chat.whatsapp.com/KT10WomWlnqLVm8iFL9aip))
 
 
