@@ -7,8 +7,8 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94771238663'] //ur owner number
+global.ownername = "wageesha sadew" //ur owner name
 
 //Bot Name 
 global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
@@ -58,16 +58,16 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 
 //SEX_VIDEO_DOWNLOAD
-global.SEX_VIDEO_DOWNLOAD ='true'
+global.SEX_VIDEO_DOWNLOAD ='false'
 
 //Kick Message 
 global.KICK_MSG = ' ' 
 
 //Links (URLS)
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
+global.ytname = "YT: wagiya tech" //ur yt chanel name
+global.socialm = "GitHub: wageeshasadew" //ur github or insta name
+global.linkz = "https://chat.whatsapp.com/FWEo2GENVz82xJOeEX70hb" //your theme url which will be displayed on whatsapp
+global.websitex = "https://sites.google.com/view/wagiyatech/home" //ur website to be displayed
 global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
 
 //Alive 
@@ -78,7 +78,7 @@ global.alive = process.env.ALIVE_MESSAGE
 global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
 
 //Anti Bad Word
-global.ANTI_BADWORD = 'true'
+global.ANTI_BADWORD = 'false'
 
 //Antilink
 global.antilink = 'true'
